@@ -1,0 +1,7 @@
+input_data/March2023_Surface_00UTC.nc
+input_data/March2023_Surface_06UTC.nc
+input_data/March2023_Upper_06UTC.nc
+pangu_weather_1.onnx
+pangu_weather_24.onnx
+pangu_weather_6.onnx
+pangu_weather_3.onnx
